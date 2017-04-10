@@ -1,2 +1,2 @@
 # dotnet-helpers
-Aggregation of various helpers for .Net projets 
+Aggregation of various helpers for .Net projects 
